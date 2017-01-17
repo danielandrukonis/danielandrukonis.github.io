@@ -1,6 +1,7 @@
 ## Welcome to GitHub Pages
 
 [About](https://github.com/danielandrukonis/danielandrukonis.github.io/edit/master/about.md) 
+[Page2](https://github.com/danielandrukonis/danielandrukonis.github.io/edit/master/about.md) 
 
 You can use the [editor on GitHub](https://github.com/danielandrukonis/danielandrukonis.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
